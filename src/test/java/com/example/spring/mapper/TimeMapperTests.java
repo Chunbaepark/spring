@@ -1,6 +1,5 @@
-package com.example.spring.sample.mapper;
+package com.example.spring.mapper;
 
-import com.example.spring.mapper.TimeMapper;
 import lombok.extern.log4j.Log4j2;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
